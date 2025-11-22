@@ -1,152 +1,273 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Yutong Zhu",
+    "email": "10047548@network.rca.ac.uk",
+    "phone": "(+44)07857160706",
+    "website": "https://yutongzhu.github.io",
+    "summary": "MDes in Design Futures at Royal College of Art. Research focuses on Human-AI Interaction, Co-Creation, and Embodied Intelligence in HCI.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "London",
+      "countryCode": "GB",
+      "region": "United Kingdom"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": ""
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": ""
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "yutongzhu",
+        "url": "https://github.com/yutongzhu"
       }
     ]
   },
-  "work": [],
-  "education": [
+  "work": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "company": "Royal College of Art - Wicked Acceleration Lab & RCA AI Club",
+      "position": "Research Assistant",
+      "website": "",
+      "startDate": "2025-04",
+      "endDate": "Now",
+      "summary": "Agent-Centered Future Education System research. Contributing to projects exploring AI visualization of Chinese traditional culture.",
+      "highlights": [
+        "Designed and prototyped three AI collaborative tools—Reframe, Reflect, and Rethink—to study human–AI cognitive co-reflection in higher education",
+        "Developed behavioral experiments testing six AI personas to assess their impact on learning trust, autonomy, and reflection depth",
+        "Co-authored paper 'Speculative Design Meets AI: Exploring Creative Dynamics through Co-Speculative Workshops' (HCII 2025)"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "company": "AICreativityLab, SCFAI & The Parsons, New York",
+      "position": "Research Assistant",
+      "website": "",
+      "startDate": "2024-09",
+      "endDate": "2024-10",
+      "summary": "BambooWind & Poetic Imagery and Shape Charm projects. Led AI GAN models for calligraphic style transfer and text-to-3D translation pipeline.",
+      "highlights": [
+        "Co-trained GAN models for calligraphic style transfer, transforming bamboo-leaf brushstrokes into font strokes",
+        "Independently led AIGC text-to-3D translation pipeline, integrating ComfyUI, Diffusion models, and LLM-based semantic parsing",
+        "Publications prepared for submission to AAAI; installations exhibited at Chengdu Art Museum and Luo Zhongli Art Museum"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "company": "Center for Brain Science and Art, Chongqing University",
+      "position": "Research Assistant",
+      "website": "",
+      "startDate": "2024-01",
+      "endDate": "2024-06",
+      "summary": "EEG-Based Wearable Neurofeedback Device for eSports. Collected and labeled EEG data from 78 professional gamers.",
+      "highlights": [
+        "Designed the interaction interface bridging neuroscience and user experience",
+        "Led experiments that enabled the prototype Syncohe, a neurofeedback-based focus training system",
+        "Recognized by Spark, EPDA, and IDA design awards"
+      ]
+    },
+    {
+      "company": "Royal College of Art × Sodexo France – AiD Lab",
+      "position": "Research Assistant",
+      "website": "",
+      "startDate": "2024-01",
+      "endDate": "2024-06",
+      "summary": "SmartTaste – AI-Driven Dining Experience System. Researched AI's role in sustainable service ecosystems.",
+      "highlights": [
+        "Co-designed an intelligent canteen interface using AI recommendation algorithms and multimodal feedback loops",
+        "Built the Smart Taste Index (STI) model analyzing taste preference and nutritional data",
+        "Prototype deployed in Sodexo's internal canteen, improving satisfaction and meal turnover"
+      ]
+    },
+    {
+      "company": "Changan Automotive × SCFAI Joint Lab",
+      "position": "Research Assistant",
+      "website": "",
+      "startDate": "2024-06",
+      "endDate": "2024-09",
+      "summary": "L4-Level Human–AI Co-Driving Cockpit. Focused on EMG and cognitive eye-gaze analysis to detect driver fatigue.",
+      "highlights": [
+        "Designed a multimodal fatigue-intervention prototype combining visual HUD, tactile feedback, and voice cues",
+        "Reduced reaction delay by ≈30% in user testing",
+        "Project received Red Dot Design nomination"
+      ]
+    },
+    {
+      "company": "HUAWEI Co., Ltd.",
+      "position": "UX Intern",
+      "website": "",
+      "startDate": "2022-09",
+      "endDate": "2022-12",
+      "summary": "Theme Design Team. Led design and launch of two mobile themes and corresponding watch face designs.",
+      "highlights": [
+        "Conducted extensive user surveys and keyword trend analysis",
+        "Led design and launch of two mobile themes on Huawei Theme Store",
+        "Contributed to lockscreen interactions, widget design, and overall theme interaction design"
+      ]
+    },
+    {
+      "company": "ByteDance Ltd.",
+      "position": "Filter Developer",
+      "website": "",
+      "startDate": "2023-10",
+      "endDate": "2023-12",
+      "summary": "TikTok Effects workshop. Designed and launched six filters on TikTok and TikTok Lite.",
+      "highlights": [
+        "Designed and launched six filters, garnering over 1,000 interactions and in excess of 10,000 views",
+        "One filter gained a feature on TikTok's official homepage",
+        "Developed custom effects across three key categories: beauty transformation, scene atmosphere, and fun AR"
+      ]
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "education": [
+    {
+      "institution": "Royal College of Art, School of Design",
+      "area": "Master of Design (MDes), Design Futures",
+      "studyType": "Master",
+      "startDate": "2024-12",
+      "endDate": "2025-06",
+      "gpa": null,
+      "courses": [
+        "Interdisciplinary Research Methodologies (15 credits)",
+        "Complex Systems (15 credits)",
+        "Envisioning Futures (15 credits)",
+        "Research Proposal (15 credits)",
+        "Research Development and Reflection (15 credits)",
+        "Realisation (30 credits)",
+        "Entrepreneurship (15 credits)"
+      ],
+      "thesis": "Co-Cerebral Learning Future: Designing for agent-centered collective intelligence environment in higher education 2050"
+    },
+    {
+      "institution": "Sichuan Fine Arts Institute, School of Design",
+      "area": "Bachelor of Art (BA), Digital Media Art",
+      "studyType": "Bachelor",
+      "startDate": "2020-08",
+      "endDate": "2024-06",
+      "gpa": "95/100",
+      "courses": [
+        "Information Interaction and Conceptual Design (95)",
+        "Graduation Creation/Design (95)",
+        "Professional Investigation (93)",
+        "Cultural Research and Conceptual Exploration (93)",
+        "Thematic Design 2 (93)"
+      ],
+      "thesis": "Poetic Form of Song Rhythm: Chinese Ancient Poem Creative Visualization Design Based On Generative AI 3D Content",
+      "honors": [
+        "Distinction (both SCFA & Chongqing Province)",
+        "Ranked 1/36",
+        "Provincial Outstanding Graduate (1/10)",
+        "Distinction Graduate (Top 10%)"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Computer Skills",
+      "level": "Advanced",
+      "keywords": ["Matlab", "SPSS", "Nvivo", "Origin", "Python"]
+    },
+    {
+      "name": "3D Rendering",
+      "level": "Advanced",
+      "keywords": ["Blender", "Cinema4D", "Octane", "Keyshot", "Mixer"]
+    },
+    {
+      "name": "Creative Coding",
+      "level": "Advanced",
+      "keywords": ["TouchDesigner", "Processing", "p5.js", "max.msp", "Unity", "Ableton Live"]
+    },
+    {
+      "name": "Smart Hardware Interaction",
+      "level": "Intermediate",
+      "keywords": ["Arduino IDE", "esp32", "Leapmotion", "Kinect", "IoT (TinyML)"]
+    },
+    {
+      "name": "UX Design Skills",
+      "level": "Advanced",
+      "keywords": ["Adobe Creative Suite", "DaVinci Resolve", "Figma", "Principle", "Webflow"]
+    },
+    {
+      "name": "Machine Creativity",
+      "level": "Advanced",
+      "keywords": ["ComfyUI", "styleGAN", "Stable Diffusion", "ML", "LLM Prompt Engineering"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Advanced",
+      "certification": "IELTS 7.0 (Reading: 7.5, Listening: 7.5, Speaking: 6.5, Writing: 6)"
+    },
+    {
+      "language": "Chinese",
+      "fluency": "Native"
+    }
+  ],
+  "interests": [
+    "Human-AI Interaction",
+    "Co-Creation",
+    "Embodied Intelligence",
+    "Speculative Design",
+    "Digital Heritage",
+    "Cultural Computing"
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Trust in Embodied Agents: A Systematic Review of How Embodiment Shapes Human–AI Trust",
+      "publisher": "Social Science Citation Index (SSCI, Q2)",
+      "releaseDate": "2025-01-01",
+      "website": "",
+      "summary": "A systematic review examining how embodiment shapes human–AI trust in interactive systems.",
+      "status": "Under submission"
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Speculative Design Meets AI: Exploring Creative Dynamics through Co-Speculative Workshops",
+      "publisher": "HCI International 2025, Late Breaking Work, LNCS 16346",
+      "releaseDate": "2025-01-01",
+      "website": "https://link.springer.com/chapter/10.1007/978-3-031-XXXXX-X_XX",
+      "summary": "Exploring creative dynamics through co-speculative workshops that integrate speculative design methodologies with AI systems.",
+      "authors": "Zhu, Y., & Zixiang, F."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Dynamic Classification Framework Based on Bio-Vitality",
+      "publisher": "CUMULUS Conference: Narratives of Love",
+      "releaseDate": "2023-01-01",
+      "website": "",
+      "summary": "A dynamic classification framework that leverages bio-vitality signals for adaptive system design.",
+      "authors": "Sun, H., Zhu, Y., & Duan, S."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Poetic Shapes: A Study on the Innovative Design of Digital Visual Poetry in Human AI Interaction",
+      "publisher": "AAAI Journal of New Art (AAAI, 2026)",
+      "releaseDate": "2026-01-01",
+      "website": "",
+      "summary": "A study exploring innovative design approaches for digital visual poetry in human-AI interaction contexts.",
+      "status": "Under preparation"
+    },
+    {
+      "name": "SprayScape: A Mixed Reality Platform for Graffiti Archiving, Attribution, and Cultural Preservation",
+      "publisher": "CHI 2026",
+      "releaseDate": "2026-01-01",
+      "website": "",
+      "summary": "A mixed reality platform that archives, attributes, and preserves urban graffiti culture through spatial computing and blockchain technology.",
+      "status": "Under submission"
+    },
+    {
+      "name": "Empowering, Not Replacing: Designing an Adaptive AI Agent Based on Six Thinking Hats to Enhance Student Agency and Critical Thinking",
+      "publisher": "CHI 2026",
+      "releaseDate": "2026-01-01",
+      "website": "",
+      "summary": "An adaptive AI agent system based on Six Thinking Hats methodology designed to enhance student agency and critical thinking in higher education.",
+      "status": "Under submission"
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
 }
